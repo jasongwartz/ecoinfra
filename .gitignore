@@ -6,3 +6,4 @@ node_modules
 **/.tf
 terraform-test-projects
 .env
+bin
